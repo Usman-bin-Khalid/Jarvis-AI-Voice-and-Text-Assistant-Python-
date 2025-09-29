@@ -25,7 +25,7 @@ With a modern **Tkinter (CustomTkinter) GUI**, Jarvis is your personal AI compan
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Usman-bin-Khalid/Jarvis-AI-Voice-Assistant.git
+   git clone https://github.com/Usman-bin-Khalid/Jarvis-AI-Voice-and-Text-Assistant-Python-.git
    cd Jarvis-AI-Assistant
 Install dependencies:
 
